@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=230&section=header&text=Riya%20Bhamare&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Cloud%20Enthusiast&descAlignY=52&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Python+%2B+Flask+%2B+SQL;Machine+Learning+%26+AI+Enthusiast;Cloud-First+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Python+%2B+Flask+%2B+SQL;Machine+Learning+%26+AI+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -30,7 +30,7 @@
 const riya = {
   title: "Full-Stack Developer",
   stack: ["Python", "JavaScript/TypeScript", "Flask", "SQL", "Machine Learning/AI", "AWS/Cloud"],
-  launchedProjects: ["SmartFarm-Procurement", "route-resilience", "ProdForge"],
+  launchedProjects: ["route-resilience", "ProdForge"],
   certifications: ["Deloitte Australia - Cyber Job Simulation"],
   status: "Building digital solutions 🚀",
   openTo: ["Full-time roles", "Collaborations", "Open Source"]
@@ -49,23 +49,6 @@ const riya = {
 <tr>
 <td width="50%" valign="top">
 
-**🌾 SmartFarm-Procurement**
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyabhamare&repo=SmartFarm-Procurement&theme=nord&border_color=7dd3fc&title_color=7dd3fc" width="100%" alt="SmartFarm-Procurement"/>
-
-Flask-based web app that digitizes agricultural trading via competitive bidding — farmers list crops, merchants bid, and agents verify quality before deals close.
-
-| Layer | Technology |
-|:---|:---|
-| Backend | Flask (Python) |
-| Data / ML | Jupyter Notebook |
-| Database | SQL |
-
-**🔗 [Code](https://github.com/Riyabhamare/SmartFarm-Procurement)**
-
-</td>
-<td width="50%" valign="top">
-
 **🛣️ route-resilience**
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyabhamare&repo=route-resilience&theme=nord&border_color=7dd3fc&title_color=7dd3fc" width="100%" alt="route-resilience"/>
@@ -80,14 +63,11 @@ A route resilience analysis project exploring robust pathfinding and disruption 
 **🔗 [Live Demo](https://route-resilience-qxqygygtrqqjeqpt9yzd85.streamlit.app/) &nbsp;·&nbsp; [Code](https://github.com/Riyabhamare/route-resilience)**
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
 **🤖 ProdForge**
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyabhamare&repo=prodforge&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="ProdForge"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyabhamare&repo=prodforge&theme=nord&border_color=7dd3fc&title_color=7dd3fc" width="100%" alt="ProdForge"/>
 
 An AI-powered productivity companion that proactively plans, prioritizes, schedules, and rescues tasks before deadlines are missed.
 
@@ -97,6 +77,10 @@ An AI-powered productivity companion that proactively plans, prioritizes, schedu
 | Core | AI / ML Integration |
 
 **🔗 [Code](https://github.com/Riyabhamare/prodforge)**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
