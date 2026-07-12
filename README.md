@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=230&section=header&text=Riya%20Bhamare&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=52&descSize=17&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=230&section=header&text=Riya%20Bhamare&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=52&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Python+%2B+Flask+%2B+SQL;Machine+Learning+%26+AI+Enthusiast;Cloud-First+Problem+Solver" alt="Typing SVG" />
@@ -22,7 +22,7 @@
 
 <br/>
 
-<img src="https://capsule-render.com/api?type=rect&color=7dd3fc&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7dd3fc&height=2&section=header" width="100%"/>
 
 ### 📌&nbsp; Who I Am
 
@@ -39,7 +39,7 @@ const riya = {
 
 <br/>
 
-<img src="https://capsule-render.com/api?type=rect&color=7dd3fc&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7dd3fc&height=2&section=header" width="100%"/>
 
 ### 🚀&nbsp; Featured Projects
 
@@ -100,7 +100,7 @@ An AI-powered productivity companion that proactively plans, prioritizes, schedu
 
 <br/>
 
-<img src="https://capsule-render.com/api?type=rect&color=7dd3fc&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7dd3fc&height=2&section=header" width="100%"/>
 
 ### 🛠️&nbsp; Tech Stack
 
@@ -114,7 +114,7 @@ An AI-powered productivity companion that proactively plans, prioritizes, schedu
 
 <br/>
 
-<img src="https://capsule-render.com/api?type=rect&color=7dd3fc&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7dd3fc&height=2&section=header" width="100%"/>
 
 ### 📊&nbsp; GitHub Stats
 
@@ -139,7 +139,7 @@ An AI-powered productivity companion that proactively plans, prioritizes, schedu
 
 <br/>
 
-<img src="https://capsule-render.com/api?type=rect&color=7dd3fc&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7dd3fc&height=2&section=header" width="100%"/>
 
 ### 🤝&nbsp; Connect With Me
 
@@ -157,6 +157,6 @@ An AI-powered productivity companion that proactively plans, prioritizes, schedu
 
 <br/>
 
-<img src="https://capsule-render.com/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=130&section=footer&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=130&section=footer" width="100%"/>
 
 </div>
