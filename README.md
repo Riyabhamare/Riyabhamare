@@ -51,7 +51,7 @@ const riya = {
 
 **🛣️ route-resilience**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyabhamare&repo=route-resilience&theme=nord&border_color=7dd3fc&title_color=7dd3fc" width="100%" alt="route-resilience"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Riyabhamare&repo=route-resilience&theme=nord&border_color=7dd3fc&title_color=7dd3fc" width="100%" alt="route-resilience"/>
 
 A route resilience analysis project exploring robust pathfinding and disruption handling, deployed as an interactive Streamlit app.
 
@@ -67,7 +67,7 @@ A route resilience analysis project exploring robust pathfinding and disruption 
 
 **🤖 ProdForge**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyabhamare&repo=prodforge&theme=nord&border_color=7dd3fc&title_color=7dd3fc" width="100%" alt="ProdForge"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Riyabhamare&repo=prodforge&theme=nord&border_color=7dd3fc&title_color=7dd3fc" width="100%" alt="ProdForge"/>
 
 An AI-powered productivity companion that proactively plans, prioritizes, schedules, and rescues tasks before deadlines are missed.
 
@@ -104,8 +104,8 @@ An AI-powered productivity companion that proactively plans, prioritizes, schedu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Riyabhamare&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&hide_border=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyabhamare&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Riyabhamare&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&hide_border=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Riyabhamare&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165"/>
 
 <br/><br/>
 
